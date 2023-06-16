@@ -198,3 +198,5 @@ var zFunction=()=>{  // camalCase
     console.log("Hello from zFunction");
 }
 zFunction(); // calling invoking
+
+// function name is followed by camalCase

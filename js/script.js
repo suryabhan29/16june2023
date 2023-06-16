@@ -3,7 +3,9 @@
 //1. function defination (one time process)
 // global variabal any place define it and any place called it
 // That is Global variabel
+
 let fullName = 'SURYABHAN SINGH'; //variable declear and initiazlize
+const mylaptop = "asus";
 
 function myBike(){
     // function body
@@ -11,6 +13,7 @@ function myBike(){
     var bike = 'hero honda splendor';  // local variable
     console.log(bike);  // statement 
     console.log(fullName);
+    console.log(mylaptop);
 }
 
 //2. function calling/invoking (many time process)
